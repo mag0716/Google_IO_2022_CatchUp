@@ -19,11 +19,11 @@
 - [x] How Google Assistant's architecture powers voice features in your apps
 - [x] Integrate Android widgets with Google Assistant
 - [x] Google Assistant functionality across Android devices
-- [ ] Car talk: Assistant and Android for cars
+- [x] Car talk: Assistant and Android for cars
 
 ## 関連
 
-- [ ] Back to the basics of System Back
+- [x] Back to the basics of System Back
 - [ ] Fragments: The good (non-deprecated) parts
 - [ ] Managing background work on Android
 - [ ] Basic layouts in Compose
