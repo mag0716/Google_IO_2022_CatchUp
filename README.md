@@ -24,7 +24,7 @@
 ## 関連
 
 - [x] Back to the basics of System Back
-- [ ] Fragments: The good (non-deprecated) parts
+- [x] Fragments: The good (non-deprecated) parts
 - [ ] Managing background work on Android
 - [ ] Basic layouts in Compose
 - [ ] Lazy layouts in Compose
