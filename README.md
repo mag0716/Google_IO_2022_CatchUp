@@ -25,7 +25,7 @@
 
 - [x] Back to the basics of System Back
 - [x] Fragments: The good (non-deprecated) parts
-- [ ] Managing background work on Android
+- [x] Managing background work on Android
 - [ ] Basic layouts in Compose
 - [ ] Lazy layouts in Compose
 - [ ] State in Jetpack Compose
