@@ -42,4 +42,4 @@
 - [ ] Building an adaptive layout with SlidingPaneLayout
 - [ ] Input for all screens
 - [ ] Creating beautiful, power efficient apps for Wear OS
-- [ ] Android solutions for seamless sign-in across devices
+- [x] Android solutions for seamless sign-in across devices
