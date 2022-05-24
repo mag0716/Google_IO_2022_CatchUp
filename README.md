@@ -29,7 +29,7 @@
 - [ ] Basic layouts in Compose
 - [ ] Lazy layouts in Compose
 - [ ] State in Jetpack Compose
-- [ ] Common performance gotchas in Jetpack Compose
+- [x] Common performance gotchas in Jetpack Compose
 
 ## 興味あり
 
