@@ -33,7 +33,7 @@
 
 ## 興味あり
 
-- [ ] What's new in Chrome OS
+- [x] What's new in Chrome OS
 - [ ] Multi-device development
 - [ ] Designing apps for large screens
 - [ ] Implementing Android apps for all screen sizes
