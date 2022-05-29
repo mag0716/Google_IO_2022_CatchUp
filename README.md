@@ -34,9 +34,9 @@
 ## 興味あり
 
 - [x] What's new in Chrome OS
-- [ ] Multi-device development
-- [ ] Designing apps for large screens
-- [ ] Implementing Android apps for all screen sizes
+- [x] Multi-device development
+- [x] Designing apps for large screens
+- [x] Implementing Android apps for all screen sizes
 - [ ] Learn how to enable shared experiences across platforms
 - [ ] Update your app for the large screen
 - [ ] Building an adaptive layout with SlidingPaneLayout
