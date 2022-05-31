@@ -37,9 +37,9 @@
 - [x] Multi-device development
 - [x] Designing apps for large screens
 - [x] Implementing Android apps for all screen sizes
-- [ ] Learn how to enable shared experiences across platforms
-- [ ] Update your app for the large screen
-- [ ] Building an adaptive layout with SlidingPaneLayout
+- [x] Learn how to enable shared experiences across platforms
+- [x] Update your app for the large screen
+- [x] Building an adaptive layout with SlidingPaneLayout
 - [ ] Input for all screens
 - [ ] Creating beautiful, power efficient apps for Wear OS
 - [x] Android solutions for seamless sign-in across devices
