@@ -40,6 +40,6 @@
 - [x] Learn how to enable shared experiences across platforms
 - [x] Update your app for the large screen
 - [x] Building an adaptive layout with SlidingPaneLayout
-- [ ] Input for all screens
-- [ ] Creating beautiful, power efficient apps for Wear OS
+- [x] Input for all screens
+- [x] Creating beautiful, power efficient apps for Wear OS
 - [x] Android solutions for seamless sign-in across devices
