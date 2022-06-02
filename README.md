@@ -28,7 +28,7 @@
 - [x] Managing background work on Android
 - [ ] Basic layouts in Compose
 - [x] Lazy layouts in Compose
-- [ ] State in Jetpack Compose
+- [x] State in Jetpack Compose
 - [x] Common performance gotchas in Jetpack Compose
 
 ## 興味あり
