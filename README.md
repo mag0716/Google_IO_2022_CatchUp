@@ -5,7 +5,7 @@
 - [x] Developer keynote
 - [x] What's new in Android
 - [x] What's new in Google Play
-- [ ] What's new in Android Camera
+- [x] What's new in Android Camera
 - [x] What's new in Android accessibility
 - [x] What's new in Android media
 - [x] What's new in Jetpack
