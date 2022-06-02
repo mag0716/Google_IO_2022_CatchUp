@@ -6,7 +6,7 @@
 - [x] What's new in Android
 - [x] What's new in Google Play
 - [ ] What's new in Android Camera
-- [ ] What's new in Android accessibility
+- [x] What's new in Android accessibility
 - [x] What's new in Android media
 - [x] What's new in Jetpack
 - [x] What's new in app performance
