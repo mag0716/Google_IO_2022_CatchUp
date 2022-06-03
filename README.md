@@ -26,7 +26,8 @@
 - [x] Back to the basics of System Back
 - [x] Fragments: The good (non-deprecated) parts
 - [x] Managing background work on Android
-- [ ] Basic layouts in Compose
+- [x] Basic layouts in Compose
+    * https://developer.android.com/codelabs/jetpack-compose-layouts#0 の説明だったので省略
 - [x] Lazy layouts in Compose
 - [x] State in Jetpack Compose
 - [x] Common performance gotchas in Jetpack Compose
